@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://github.com/asrafulsharker/asrafulsharker/assets/64266026/6851be1f-419e-443b-bed8-fc7eaad5e666)](https://rishavchanda.io)
+![cover]()
+
 <h1 align="center">Hi 👋, I'm Asraful Sharker</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="250" src="https://github.com/asrafulsharker/asrafulsharker/assets/64266026/36ff37f8-41af-4f83-b795-e320806ef902">

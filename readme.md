@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Asraful Sharker</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://github.com/asrafulsharker/asrafulsharker/assets/64266026/36ff37f8-41af-4f83-b795-e320806ef902)">
+<img align="right" alt="Coding" width="400" src="https://github.com/asrafulsharker/asrafulsharker/assets/64266026/36ff37f8-41af-4f83-b795-e320806ef902">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrafulsharker&label=Profile%20views&color=0e75b6&style=flat" alt="asrafulsharker" /> </p>
 

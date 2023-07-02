@@ -1,7 +1,4 @@
 [![MasterHead](https://github.com/asrafulsharker/asrafulsharker/assets/64266026/c4bf9728-a2fe-4d7f-af7e-bf7c36fc621b)](https://asrafulme.netlify.app/)
-![4102255_819- Converted](https://github.com/asrafulsharker/asrafulsharker/assets/64266026/c4bf9728-a2fe-4d7f-af7e-bf7c36fc621b)
-
-
 <h1 align="center">Hi 👋, I'm Asraful Sharker</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="250" src="https://github.com/asrafulsharker/asrafulsharker/assets/64266026/36ff37f8-41af-4f83-b795-e320806ef902">

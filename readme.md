@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Asraful Sharker Nirob</h1>
+
+<style>
+  .body{
+    background-color:red;
+  }
+</style>
+<div class="body">
+  <h1 align="center">Hi 👋, I'm Asraful Sharker Nirob</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 ![143623-paralympics-cycling](https://github.com/asrafulsharker/asrafulsharker/assets/64266026/b50cbdb7-5f86-4807-ab8a-d716389e9b4b).
 ![Screenshot (40)](https://github.com/asrafulsharker/Web-Engineering-Project-Section-Management-System/assets/64266026/3805a2d5-62c7-4ce2-bc84-db6e73c66c29)
@@ -30,3 +37,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asrafulsharker&" alt="asrafulsharker" /></p>
 
+
+</div>

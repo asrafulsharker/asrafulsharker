@@ -1,15 +1,10 @@
 
-<style>
-  .body{
-    background-color:red;
-  }
-</style>
-<div class="body">
+
   <h1 align="center">Hi 👋, I'm Asraful Sharker Nirob</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 ![143623-paralympics-cycling](https://github.com/asrafulsharker/asrafulsharker/assets/64266026/b50cbdb7-5f86-4807-ab8a-d716389e9b4b).
 ![Screenshot (40)](https://github.com/asrafulsharker/Web-Engineering-Project-Section-Management-System/assets/64266026/3805a2d5-62c7-4ce2-bc84-db6e73c66c29)
-<img src="https://github.com/asrafulsharker/asrafulsharker/assets/64266026/b50cbdb7-5f86-4807-ab8a-d716389e9b4b">
+<img align="center" src="https://github.com/asrafulsharker/asrafulsharker/assets/64266026/b50cbdb7-5f86-4807-ab8a-d716389e9b4b">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrafulsharker&label=Profile%20views&color=0e75b6&style=flat" alt="asrafulsharker" /> </p>
 
 <p align="left"> <a href="https://twitter.com/asrafulsharker" target="blank"><img src="https://img.shields.io/twitter/follow/asrafulsharker?logo=twitter&style=for-the-badge" alt="asrafulsharker" /></a> </p>
@@ -38,4 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asrafulsharker&" alt="asrafulsharker" /></p>
 
 
-</div>
+
